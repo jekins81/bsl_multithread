@@ -7,7 +7,7 @@
 		<Metadata name="CommonModule.хе_МногопоточкаСлужебный.Module" id="76d87d26-aab6-40ac-883d-2f36c8214b42.0" configVersion="9c0c744b01c1517e1fb2441e1182ae021afeb99f"/>
 		<Metadata name="CommonModule.хе_Тестовые" id="7d87f80f-adab-4842-8d30-f5f07460189e" configVersion="918bcbed58e433bf9f2db8e9df726c197ff2c6e1"/>
 		<Metadata name="CommonModule.хе_Тестовые.Module" id="7d87f80f-adab-4842-8d30-f5f07460189e.0" configVersion="10679e6fa3cc433847f02fdee45e19e1491fc496"/>
-		<Metadata name="Configuration.ХЕ_Многопоточка" id="45b03712-cd13-4bb4-8401-c9e5f586c3f1" configVersion="e7ac7521f2861bf2e2ecc9e15ded7be91c7e1c78"/>
+		<Metadata name="Configuration.ХЕ_Многопоточка" id="45b03712-cd13-4bb4-8401-c9e5f586c3f1" configVersion="48e1e4675a75d7b537a2f8db6a74a8c77e7f5bb8"/>
 		<Metadata name="DataProcessor.хе_ТестыПримеры" id="74a403da-7fe7-4eb3-9877-5addd88f498a" configVersion="307e42a8cf60ed9f74ab371001a698af2539884e">
 			<Metadata name="DataProcessor.хе_ТестыПримеры.Attribute.СпособОбработки" id="006f423c-5306-41ba-b811-eb4f2047f996"/>
 			<Metadata name="DataProcessor.хе_ТестыПримеры.TabularSection.Результат" id="03469f14-3bd5-4d83-ac8a-d2fbf41c27dd"/>
@@ -49,7 +49,7 @@
 		</Metadata>
 		<Metadata name="DataProcessor.хе_ТестыПримеры.Command.МногопоточныйЗапуск.CommandModule" id="1a0a642a-6d5a-45e4-914e-127580b5a2c5.2" configVersion="5efc4083ffe6722dce743c5c208140144a6cf1f7"/>
 		<Metadata name="DataProcessor.хе_ТестыПримеры.Form.Форма" id="eea8af9b-ec5e-4c4a-8bc9-1fcfde7ddb5f" configVersion="6ca9b28325644ec9e6187be8b65f8dfbac3bab93"/>
-		<Metadata name="DataProcessor.хе_ТестыПримеры.Form.Форма.Form" id="eea8af9b-ec5e-4c4a-8bc9-1fcfde7ddb5f.0" configVersion="14c0367649c8891558a946be7920d3ba2b0e3163"/>
+		<Metadata name="DataProcessor.хе_ТестыПримеры.Form.Форма.Form" id="eea8af9b-ec5e-4c4a-8bc9-1fcfde7ddb5f.0" configVersion="2f0a60fd2ce7e4fa73589b49dcedee495ef19eba"/>
 		<Metadata name="DataProcessor.хе_ТестыПримеры.ObjectModule" id="74a403da-7fe7-4eb3-9877-5addd88f498a.0" configVersion="e52d7c05c7e99d3cbd8b4fd665cd9e7b42b52bd0"/>
 		<Metadata name="DataProcessor.хе_ТестыПримеры.Template.index_php" id="e59fac9f-526b-4eec-b5b6-d4b05c6338f7" configVersion="8d176e404537548d63a9b1384bcb5f985ea4e902"/>
 		<Metadata name="DataProcessor.хе_ТестыПримеры.Template.index_php.Template" id="e59fac9f-526b-4eec-b5b6-d4b05c6338f7.0" configVersion="82a7002da4a32a3c9e5c1a78b801bda16a3943b1"/>

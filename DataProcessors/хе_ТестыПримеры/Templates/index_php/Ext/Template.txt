@@ -1,0 +1,9 @@
+﻿<? //echo "Hello world<br>";
+$crash_persent = (int)$_GET['crash_persent'];
+if (rand(0,100) < $crash_persent){
+	http_response_code(500);
+	//echo "$crash_persent<br>";
+}
+echo $_GET['time'];
+sleep($_GET['time']);
+ ?>
